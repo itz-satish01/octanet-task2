@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 3000px 1000px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    position: relative;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .todo-item {
+    margin-bottom: 10px;
+  }
+  
